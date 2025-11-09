@@ -1,2 +1,20 @@
-# princendaacademy
-The eligibility criteria vary for different courses. For the foundation courses, students from classes 8th to 12th are eligible. For the Target course, students must have passed their 12th-grade exams. Please visit the specific course pages for detailed eligibility requirements.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1MMCNhH6WUl114ECR-FUM3ICCxOohGhDI
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

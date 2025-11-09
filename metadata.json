@@ -1,0 +1,5 @@
+{
+  "name": "Princenda Learning Hub Clone",
+  "description": "A clone of a modern, dark-themed e-learning platform homepage, built with React and Tailwind CSS. It features sections for hero, features, courses, testimonials, and a footer.",
+  "requestFramePermissions": []
+}
